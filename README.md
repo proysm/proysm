@@ -15,6 +15,7 @@
 #### 🐥 website
 ![Static Badge](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40proysm5154)
 
+<a href="https://velog.io/@proysm5154"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 <br>
 
