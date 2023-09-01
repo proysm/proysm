@@ -1,14 +1,9 @@
-### Hi 🙌🏻
-
-
 #### 📩 Contact 
 <a href="mailto:proysm5154@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 #### 🐥 Website 
 <a href="https://velog.io/@proysm5154"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <br>
 <a href="https://boundless-ton-d1f.notion.site/2322830dcd264b029b00660af28b777a?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-
-<br>
 
 <!--
 **proysm/proysm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
