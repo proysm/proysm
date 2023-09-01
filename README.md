@@ -13,7 +13,7 @@
 <br>
 
 ### 🐥 website
-![https://velog.io/@proysm5154](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white)
 
 <br>
 
