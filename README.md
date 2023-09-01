@@ -1,19 +1,20 @@
 ### Hi I'm sumin 🙌🏻
 <br>
 
-### 💻 stack
+#### 💻 stack
 ![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 <br>
 
-### 🌱 learning now
+#### 🌱 learning now
 <br>
 
-### 📩 contact
+#### 📩 contact
 <br>
 
-### 🐥 website
-![Static Badge](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white)
+#### 🐥 website
+![Static Badge](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40proysm5154)
+
 
 <br>
 
