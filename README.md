@@ -1,7 +1,8 @@
 ### Hi there 👋
-📩 contact : proysm5154@naver.com
-<br>
-🐥 blog : https://velog.io/@proysm5154
+
+##### 📩 contact
+
+##### 🐥 website
 
 
 <!--
