@@ -1,6 +1,7 @@
 ### Hi there 👋
 📩 contact : proysm5154@naver.com
-![green favicon](https://github.com/proysm/proysm/assets/104756460/877266c4-7bd8-4f4c-af02-68a59b9443d3) blog : https://velog.io/@proysm5154
+<br>
+🐥 blog : https://velog.io/@proysm5154
 
 
 <!--
