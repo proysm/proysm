@@ -1,11 +1,11 @@
-#### Hi 🙌🏻
+### Hi 🙌🏻
 
 
-##### 📩 contact 
+#### 📩 contact 
 <a href="mailto:proysm5154@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-##### 🐥 website 
-<a href="https://velog.io/@proysm5154"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+#### 🐥 website 
+<a href="https://velog.io/@proysm5154"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <br>
 <a href="https://velog.io/@proysm5154"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <br>
