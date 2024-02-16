@@ -1,7 +1,12 @@
-#### 📩 Contact 
+### 🐥 Me
+`유수민`
+`컴퓨터공학전공`
+`개발자`
+
+### 📩 Contact 
 <a href="mailto:proysm5154@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
-#### 🐥 Website 
+### 🌐 Website 
 <a href="https://proysm.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF8C00?style=flat&logo=Tistory&logoColor=white"/></a> <br>
 <a href="https://boundless-ton-d1f.notion.site/2322830dcd264b029b00660af28b777a?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
